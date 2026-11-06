@@ -1,0 +1,16 @@
+{
+  "tickets": {
+    "INC-101": {
+      "servicio": "Base de Datos Postgres",
+      "error": "Timeout en pool de conexiones",
+      "estado": "ABIERTO",
+      "prioridad": "P1"
+    },
+    "INC-102": {
+      "servicio": "Servidor Web Nginx",
+      "error": "Error 502 Bad Gateway",
+      "estado": "PENDIENTE",
+      "prioridad": "P2"
+    }
+  }
+}
